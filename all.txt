@@ -1,0 +1,61 @@
+pick
+---------
+
+ // <main className="flex min-h-screen flex-col items-center justify-between p-36 bg-gray-100">
+    //   <p className='text-[20px] font-medium mb-5'>Pick player 1st mark</p>
+    //   <div className='bg-white w-[500px] h-[300px] rounded-2xl py-8'>
+    //     <div className='flex items-start gap-24 justify-center'>
+    //       <Image
+    //         src={o}
+    //         alt="O img"
+    //       />
+    //       <Image
+    //         src={x}
+    //         alt="X img"
+    //       />
+    //     </div>
+    //     <div className='flex items-start gap-60 mt-7 justify-center'>
+          
+    //       <input
+    //         type="radio"
+    //         name='player'
+    //         id='X'
+    //         className="scale-[2.3]"
+    //         onChange={handlePlayerChange}
+    //         required
+    //         />
+    //       <input
+    //         type="radio"
+    //         name='player'
+    //         id='O'
+    //         className="scale-[2.3]"
+    //         onChange={handlePlayerChange}
+    //         required
+    //         />
+            
+    //     </div>
+
+
+        
+
+    //     <p className='font-medium text-center mt-9'>
+    //       REMEMBER: X IS GOING FIRST
+    //     </p>
+
+    //   </div>
+    //   <Button 
+    //     type="submit" 
+    //     className={`bg-[#4FC3F7] ${!player ? 'opacity-50 cursor-not-allowed' : ''}`} 
+    //     href={player ? "/play" : "#"} 
+        
+    //   >
+    //     Start game
+    //   </Button>
+    // </main>
+
+----------
+
+
+
+
+
