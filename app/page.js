@@ -24,7 +24,7 @@ export default function Home() {
         <p className= {`font-[900] text-[88px] ${inter.className}`} >Tic Tac Toe</p>
         <p className= {`font-semibold text-[25px]  text-center items-center justify-center flex-wrap ${inter.className}`} >Dive into the excitement now and experience <br/>
         the timeless joy of this classic game!</p>
-        <Button className="bg-[#4FC3F7] " href="./pick"> New game</Button>
+        <Button className="bg-[#4FC3F7] " href="./play"> New game</Button>
         
       
     </main>
